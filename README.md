@@ -4,4 +4,4 @@
 
  Repositório criado durante o curso do canal Curso em Vídeo.
 
-Está linha eu adicionei diretamente do site.
+ Está linha eu adicionei diretamente do site.
